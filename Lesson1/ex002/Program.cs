@@ -2,19 +2,14 @@
 Clear();
 
 //O(n²)
-// int n = 5;
-// int[] array = new int[n];
-// for (int i = 0; i < n; i++)
-//     array[i] = Convert.ToInt32(ReadLine());
-// WriteLine("[" + string.Join(", ", array) + "]");
 
-// int summa = 0;
-// for (int i = 0; i < n; i++)
-//     summa += array[i];
-// System.Console.WriteLine(summa); //O(n)
-
-
-
-
-
-
+int n = Convert.ToInt32(ReadLine());
+for (int i = 1; i <= n; i++)
+{
+    for (int j = 1; j <= n; j++) 
+    {
+     Console.Write(i * j);
+     Console.Write("\t");
+     }
+     System.Console.WriteLine();
+}
