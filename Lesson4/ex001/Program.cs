@@ -48,4 +48,4 @@ for (int i = 0; i < n - 1; i++)
     array[MinIndex] = array[i];
     array[i] = temp;
 }
-Console.WriteLine("Конечный массив: [" + string.Join(", ", array) + "]");
+Console.WriteLine("Конечный массив: [" + string.Join(", ", array) + "]"); 
