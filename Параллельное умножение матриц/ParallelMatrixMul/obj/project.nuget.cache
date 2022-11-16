@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4cFaKwbiyjPOcHmdbZpi28N3JkxxpSJNFZc46zRnsSjhj9+DlPmPxMmv/Myau6H3hOEtK2/r3r+O1/Nq34ShHA==",
+  "dgSpecHash": "4MeUaaU5opU6QagYXWxuPVZsIvaBRdoet2uKJf96vz7zeUqfo5HxN8o1SoxQ/RkrlmTL3d22ndFG2IyhwSYGgg==",
   "success": true,
-  "projectFilePath": "D:\\GB\\bootcamp\\ParallelMatrixMul\\ParallelMatrixMul.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Буткемп. Программирование\\Параллельное умножение матриц\\ParallelMatrixMul\\ParallelMatrixMul.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

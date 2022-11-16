@@ -13,3 +13,18 @@ D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.dll
 D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ref\ParallelMatrixMul.dll
 D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.pdb
 D:\GB\bootcamp\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.genruntimeconfig.cache
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.exe
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.deps.json
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.runtimeconfig.json
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.dll
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\bin\Debug\net6.0\ParallelMatrixMul.pdb
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.AssemblyInfo.cs
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.dll
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\refint\ParallelMatrixMul.dll
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.pdb
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ParallelMatrixMul.genruntimeconfig.cache
+C:\Users\user\Desktop\Буткемп. Программирование\Параллельное умножение матриц\ParallelMatrixMul\obj\Debug\net6.0\ref\ParallelMatrixMul.dll
