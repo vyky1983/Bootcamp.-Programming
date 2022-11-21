@@ -6,5 +6,5 @@ from turtle import *
 finish = 200
 
 t1 = Turtle()
-t.shape("turtle")
-t.color("red")
+# t.shape("turtle")
+# t.color("red")
