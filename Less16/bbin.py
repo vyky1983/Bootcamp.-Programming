@@ -1,6 +1,6 @@
 from random import randint
 
-x = randint(10, 100)
+x = randint(0, 100)
 count_perebor = 0
 # метод последовательного перебора
 
@@ -23,12 +23,24 @@ print("Загадоное число было", x,
       " и для его пойска потребовалось угадования  ", count_random,
       " итерации")
 
-count_bin=1
+count_bin = 1
+# бинарный
 print("давайте начнем игру угадай число от 1 до 100")
-y=int(input(" введите число -->"))
-while x!=y:
-    if x<y:print("меньше")
-    else: print("Большое") 
-    y=int(input(" введите число -->"))
-    count_bin+=1
-print("загадоное число было ", x , " и для его пойска потребовалось бинарный алгоритм ", count_bin,)
+y = int(input("введите число -->"))
+left = 0
+ringht = 100
+y = (ringht + left) // 2
+
+
+while x != y:
+    if x < y: print("меньше")
+    else:
+     print("Большe")
+    y = int(input(" введите число -->"))
+    count_bin += 1
+print(
+    "загадоное число было ",
+    x,
+    " и для его пойска потребовалось бинарный алгоритм ",
+    count_bin,
+)
